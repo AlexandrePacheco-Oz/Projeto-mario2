@@ -1,3 +1,3 @@
 # Projeto-mario2
  
-Esse projeto foi feito em grupo para treinar o CSS, HTML e JS
+Esse projeto foi feito em grupo para treinar o CSS, JS e HTML. 
